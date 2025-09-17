@@ -5,3 +5,7 @@ Answer: Git is a very useful version control system that allows us to track chan
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to multiple fields as it is very interdisciplinary. Specifically, data science could be applied to the field of GIS and environmental science. It is especially useful in analyzing environmental data such as emissions, which could help us understand our world better and how it is changing. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: When merging, git keeps the history of both branches and combines them into one branch. Rebasing changes the base of the local branch by using another branch as the reference. In other words, it rewrites the history so it wouldn't keep the old local branch's history.  
