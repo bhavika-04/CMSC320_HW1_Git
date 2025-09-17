@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: Git is a very useful version control system that allows us to track changes that are made to files. It's also extremely helpful for collaborating on projects as people are allowed to work on different branches and then merge their changes together. 
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to multiple fields as it is very interdisciplinary. Specifically, data science could be applied to the field of GIS and environmental science. It is especially useful in analyzing environmental data such as emissions, which could help us understand our world better and how it is changing. 
