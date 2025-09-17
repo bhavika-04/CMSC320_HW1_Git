@@ -1,6 +1,6 @@
 Q1: Why might we consider using Git?
 
-Answer: Git is a very useful version control system that allows us to track changes that are made to files. It's also extremely helpful for collaborating on projects as people are allowed to work on different branches and then merge their changes together. 
+Answer: Git is a very useful version control system that allows us to track changes that are made to files. It's also extremely helpful for collaborating on projects as people are allowed to work on different branches and then combine their changes together. 
 
 Q2: What field could data science be applied to? Give an Example.
 
