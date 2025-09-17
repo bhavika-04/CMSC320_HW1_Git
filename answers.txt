@@ -9,3 +9,7 @@ Answer: Data science can be applied to multiple fields as it is very interdiscip
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: When merging, git keeps the history of both branches and combines them into one branch. Rebasing changes the base of the local branch by using another branch as the reference. In other words, it rewrites the history so it wouldn't keep the old local branch's history.  
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to traveling the east coast more! I want to go hiking and explore the outdoors more, and I am also excited to travel to new cities like Boston for fall break. 
